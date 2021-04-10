@@ -1,0 +1,17 @@
+body{
+	margin: 50px;
+	background-color: black;
+	color: white;
+}
+h1{
+	text-align:center;
+}
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.buttonHolder{
+	justify-content: center;
+	text-align: center;
+}
